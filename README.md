@@ -22,7 +22,7 @@ Una caja pequeña <br>
 ![2](https://github.com/DSBAENAR/EXPERIMENTO-DOBLE-RENDIJA/blob/main/imagenes/experimento.jpeg)
 
 ## EXPLICACIÓN
-[Patro De interferencia](https://drive.google.com/file/d/1zKVuNvIPNoOPwDC5f5zqP_zo2UqBBh0N/view?usp=sharing) En este link se encuentra un video en donde se puede observar el patrón de interferencia.
+<video src="Video.mp4" width="640" height="480"></video>
 
 Para este experimento se simula un sistema probabilístico con dos rendijas donde se trata de observar un patrón de interferencia que es generado por el paso de la luz del láser a través de las rendijas donde las probabilidades de impacto en el fondo de la caja, estan representadas en la siguiente matriz: 
 ![3](https://github.com/DSBAENAR/EXPERIMENTO-DOBLE-RENDIJA/blob/main/imagenes/matriz.jpeg)
