@@ -64,8 +64,9 @@ Para este experimento se simula un sistema probabilístico con dos rendijas dond
 ![3](https://github.com/DSBAENAR/EXPERIMENTO-DOBLE-RENDIJA/blob/main/imagenes/matriz.jpeg)
 Se hará una implementación sencilla en python, que es la siguiente:
 ![image](https://user-images.githubusercontent.com/68250833/223925793-31e4b58a-1f93-4792-b050-b9ec2ac2b84e.png)
-el resultado es un vector que dice cuales son las probabilidades de que la particula esté en cada posición  y es:
+el resultado es un vector que dice cuales son las probabilidades de que la particula esté en cada posición, en dos click de tiempo y es:
 ![image](https://user-images.githubusercontent.com/68250833/223926110-94deaab6-dcdd-444b-9217-3c15af6eaa13.png)
+
 Se puede afirmar que la probabilidad más alta se encuentra en el centro del patrón mencionado anteriormente, y que el resto de probabilidades son iguales.
 
 ## INTEGRANTES 
