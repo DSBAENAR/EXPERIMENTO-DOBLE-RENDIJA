@@ -1,6 +1,6 @@
 # EXPERIMENTO-DOBLE-RENDIJA-CUANTICO
 
-Este es un experimento casero que demuestra los principios de la mecánica cuántica y la naturaleza ondulatoria de la materia a través del fenómeno de la doble rendija.
+Este es un experimento casero que demuestra los principios de la mecánica cuántica, la interferencia y las posibilidades de que una particula esté en dos espacios al mismo tiempo, además de la naturaleza ondulatoria de la materia a través del fenómeno de la doble rendija.
 
 ## MATERIALES
 Una fuente de luz láser <br>
