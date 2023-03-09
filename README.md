@@ -22,6 +22,6 @@ Una caja pequeña <br>
 ![2](https://github.com/DSBAENAR/EXPERIMENTO-DOBLE-RENDIJA/blob/main/imagenes/experimento.jpeg)
 
 ## EXPLICACIÓN
-Para este experimento se simula un sistema probabilístico con dos rendijas donde se trata de observar un patrón de interferencia que es generado por el paso de la luz del láser a través de las rendijas donde las probabilidades de impacto en el fondo de la caja, estan representadas en la siguiente matriz:
+Para este experimento se simula un sistema probabilístico con dos rendijas donde se trata de observar un patrón de interferencia que es generado por el paso de la luz del láser a través de las rendijas donde las probabilidades de impacto en el fondo de la caja, estan representadas en la siguiente matriz: <br>
 ![3](https://github.com/DSBAENAR/EXPERIMENTO-DOBLE-RENDIJA/blob/main/imagenes/matriz.jpeg)
 Se puede afirmar que la probabilidad más alta se encuentra en el centro del patrón mencionado anteriormente, y que el resto de probabilidades son iguales.
